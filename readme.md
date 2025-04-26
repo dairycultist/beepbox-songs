@@ -2,11 +2,21 @@
 
 <!--
 Deadman Walking animated intro.
+
 Intro (first 4 bars): At the start of every half bar, an image appears only to fade fully to black before the start of the next half bar. These images show Deadman's corpse being found and assembled, including an armbone, brain, and so forth. The last image is of Deadman stood in the middle of the screen, now fully assembled, but lifeless.
 Intro (second 4 bars): Right on the downbeat, red eyes flash onto the otherwise black screen, right where his eyes were in the last image. [idk what for the rest]
+
+
 Verse:
+
+
 Bridge: [idk] The last shot is of him inspecting his arm, which contains an armbone underneath metal and circuitry.
+
+
 Chorus: [idk] The last shot is of him lashing out with his arm.
+
+"ask him yes ask him is he just the metal is there any thought at all in his head in his heart that they left there / save him yes save him _ didn't want to live at all"
+
 Outro: Same concept as the intro (with images appearing and fading). First is his armbone on a black background (in the same place as the previous shot), with the first appearance intact, and the second shattered. Similar occurs for the last two half bars with his whole body (mirroring the intro; first he was assembled, now he's disassembled).
 -->
 
