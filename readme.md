@@ -31,7 +31,7 @@ Bridge: [idk] The last shot is of him inspecting his arm, which contains an armb
 
 Chorus: [idk] The last shot is of him lashing out with his arm.
 
-"ask him yes ask him is he just the metal is there any thought at all in his head in his heart that they left there / save him yes save him _ didn't want to live at all, in his code, a mission lies, until it stops, he cannot die"
+"ask him yes ask him is he just the metal is there any thought at all in his head in his heart that they left there / save him yes save him _ didn't want to live at all, in his code, a mission lies, until it ends, he cannot die"
 
 Outro: Same concept as the intro (with images appearing and fading). First is his armbone on a black background (in the same place as the previous shot), with the first appearance intact, and the second shattered. Similar occurs for the last two half bars with his whole body (mirroring the intro; first he was assembled, now he's disassembled).
 -->
